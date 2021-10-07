@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Calvin Goodale, Web Developer - Contact</title>
-    <meta name="description" content="Website of Calvin Goodale, a web designer based in Maine">
+    <title>Calvin Goodale, Developer - Contact</title>
+    <meta name="description" content="Website of Calvin Goodale, a developer based in Maine">
     <meta name="keywords" content="calvin, goodale, calvin goodale, maine, web design, graphic design, websites, graphics, freelance, developer">
     <meta name="author" content="calvin goodale">
     <meta charset="UTF-8">
@@ -37,7 +37,7 @@
 	        <div class="navbar">
 		        <ul>
         		  <li><a href="http://cgoodale.com">About</a></li>
-        		  <li><a href="/projects">Projects</a></li>
+        		  <li><a href="/links">Links</a></li>
         		  <li><a class="active" href="/contact">Contact</a></li>
 	        	</ul>
         	</div>
@@ -47,7 +47,7 @@
 	<section class="middle">
 	    <div class="container">  
     	    <article>
-    	    	<h2>Contact me here</h2>
+    	    	<h2 class="center-text">Contact me here</h2>
                 <div class ="contactform">
                     <div class="formcontainer">
                         <form action="includes/sendform.php" method="Post" name="EmailTestForm">
