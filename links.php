@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Calvin Goodale, Web Developer - Projects</title>
-    <meta name="description" content="Website of Calvin Goodale, a web designer based in Maine">
+    <title>Calvin Goodale, Developer - Projects</title>
+    <meta name="description" content="Website of Calvin Goodale, a developer based in Maine">
     <meta name="keywords" content="calvin, goodale, calvin goodale, maine, web design, graphic design, websites, graphics, freelance, developer">
     <meta name="author" content="calvin goodale">
     <meta charset="UTF-8">
@@ -37,7 +37,7 @@
 	        <div class="navbar">
 		        <ul>
         		  <li><a href="http://cgoodale.com">About</a></li>
-        		  <li><a class="active" href="/projects">Projects</a></li>
+        		  <li><a class="active" href="/links">Links</a></li>
         		  <li><a href="/contact">Contact</a></li>
 	        	</ul>
         	</div>
@@ -46,20 +46,24 @@
 	
 	<section class="middle">
 	    <div class="container">  
-    	    <article>
-    	    	<h2>Websites</h2>
+    	    <article class="center-text">
     	    	
     	    	<h3 style="margin-bottom:0"><a href="https://cgoodale.com">cgoodale.com</a></h3> 
     	    	<p class = "description">My personal website</p>
     	    	<p class="notes">Designed and coded</p>
-    	    	
-    	    	<h3 style="margin-bottom:0"><a href="http://passportprep.com">passportprep.com</a></h3>
-    	    	<p class="description">Local tutoring business</p>
-    	    	<p class="notes">Designed and coded custom WordPress template</p> 
-    	    	
+    	    
     	    	<h3 style="margin-bottom:0"><a href="http://goodflowmanagement.com">goodflowmanagement.com</a></h3>
     	    	<p class="description">Regional artist management company</p>
     	    	<p class="notes">Designed and coded</p>
+				
+				<h3 style="margin-bottom:0"><a href="https://github.com/cwg83">GitHub</a></h3>
+    	    	<p class="description">My GitHub profile, with a few of my current projects</p>
+				
+				<h3 style="margin-bottom:0"><a href="https://codepen.io/Cal_Pal">CodePen</a></h3>
+    	    	<p class="description">My CodePen profile, with some of my front-end adventures</p>
+				
+				<h3 style="margin-bottom:0"><a href="https://www.hackerrank.com/calvin_goodale">HackerRank</a></h3>
+    	    	<p class="description">My HackerRank profile</p>
     	    	
     	    </article>	
 		</div>  
