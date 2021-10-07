@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Calvin Goodale, Web Developer - About</title>
-    <meta name="description" content="Website of Calvin Goodale, a web designer based in Maine">
+    <title>Calvin Goodale, Developer - About</title>
+    <meta name="description" content="Website of Calvin Goodale, a developer based in Maine">
     <meta name="keywords" content="calvin, goodale, calvin goodale, maine, web design, graphic design, websites, graphics, freelance, developer">
     <meta name="author" content="calvin goodale">
     <meta charset="UTF-8">
@@ -37,7 +37,7 @@
 	        <div class="navbar">
 		        <ul>
         		  <li><a class="active" href="http://cgoodale.com">About</a></li>
-        		  <li><a href="/projects">Projects</a></li>
+        		  <li><a href="/links">Links</a></li>
         		  <li><a href="/contact">Contact</a></li>
 	        	</ul>
         	</div>
@@ -47,9 +47,11 @@
 	<section class="middle">
 	    <div class="container">
 	        <article class="aboutme">
-    	    	<h2>Hi, I'm Cal.</h2>
-    	    	<p>I'm a web developer and aspiring designer based in Maine. I'm currently working on expanding my knowledge of front-end web development and improving my design skills.</p>	
-		    </article>
+    	    	<h2 class="center-text">Hi, I'm Cal.</h2>
+    	    	<p>I'm a web developer and designer based in Maine. I've been studying both front-end and back-end web development for the better part of the last 10 years.</p>	
+	    	    <p>My current focus is Python.</p>		   
+    	    	<p>Feel free to take a look at some of my projects and contact me if you have any questions.</p>	
+		   </article>
 		</div>  
 	</section>
 	
